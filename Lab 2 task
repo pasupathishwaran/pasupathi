@@ -1,0 +1,83 @@
+#task 2
+i=int(input("ENTER I :"))
+if i%2==0:
+    print(i,"is even")
+else:
+    print(i,"is odd")
+
+age=int(input("enter your age:"))
+if age>=18:
+    print("YOU CAN VOTE")
+else:
+    print("YOU CAN NOT VOTE")
+
+m=int(input("enter mark:"))
+if m>=40:
+    print("pass")
+else:
+    print("fail")
+
+x=int(input("enter x:"))
+if x>0:
+    print("positive")
+else:
+    print("negative")
+
+m=int(input("enter mark"))
+if m>=90:
+    print("A")
+elif m<=89 and m>=75:
+    print("B")
+elif m<=74 and m>=50:
+    print("C")
+else:
+    print("fail")
+
+a=int(input("enter a:"))
+b=int(input("enter b:"))
+c=int(input("enter c:"))
+if a>b and a>c:
+    print(a,"is big")
+elif b>a and b>c:
+    print(b,"is big")
+else:
+    print(c,"is big")
+
+x=int(input("enter x:"))
+if x==1:
+    print("monday")
+elif x==2:
+    print("thusday")
+elif x==3:
+    print("wednesday")
+elif x==4:
+    print("thursday")
+elif x==5:
+    print("friday")
+elif x==6:
+    print("saturaday")
+else:
+    print("sunday")
+
+a=int(input("enter a:"))
+a-=2
+print(a)
+
+a=str(input("enter name :"))
+x=str(input("enter password :"))
+if a==sam or a==ram:
+    print("   ")
+    if x==123 or x==321:
+        print("correct password")
+    else:
+        print("wrong password")
+else:
+    print("invalid username")
+ 
+s=str(input("enter signal colour:"))
+if s==red:
+    print("stop")
+elif s==yellow:
+    print("get ready")
+else:
+    print("go")
