@@ -1,0 +1,59 @@
+File Edit Format Run Options Window Help a=10
+b=20
+print" THE SUM IS :",a+b) print("THE SUB IS: "
+,a-b)
+print("THE MULTIPLE IS:"
+"a*b)
+print("THE DIVIDE IS : ",a/b)
+print("THE MODULES:".
+",a%b)
+print("THE FLOOR DIVISION:",a//b)
+print("THE EXPONENT :",a**b)
+a=10
+1=15
+b=20
+1=10
+#AREA OF SQUARE
+print(" AREA OF SQUARE:" a*a)
+#AREA OF RECTANGLE
+print ("AREA OF RECTANGLE:",1*b)
+#AREA OF CIRCLE
+print ("AREA OF CIRCLE:"3.14*1**2)
+#PERIMETER OF SQUARE
+print("PERIMETER OF SQUARE:",4*a)
+#PERIMETER OF RECTANGLE
+print("PERIMETER OF RECTANGLE:"2*1+2*b)
+#PERIMETER OF CIRCLE
+print("PERIMETER OF CIRCLE:",2*3.14*1)
+aFint(input"enter a:"))
+b=int(input("enter b:"))
+c-int(input("enter c:")
+d-a+b+c
+a-int(input("enter a:"))
+b-int input(" enter b:"))
+c=int(input("enter c:"))
+d-a+b+c
+print("THE AVERAGE IS :",d/3)
+a=10
+b=20
+print(a==b)
+print(a>b)
+print(a>=b)
+a-intinput("enter a: "))
+print("the square root is:",a**0.5)
+a=10
+a+=5
+a-=B
+a*=2
+a/=4
+0%=2
+a**=3
+print(a)
+x-intinput("enter x:"))
+print("the cube root is :",x**0.333333333333)
+a=8523
+b=a%100
+print("last 2 digit:",b)
+a=8523
+b=a//100
+print("remove last 2 digit:",b)
